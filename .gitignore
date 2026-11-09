@@ -31,6 +31,17 @@ fabricacion/*
 # Excepción: la BOM en CSV se versiona, para ver en cada diff qué piezas cambian.
 !fabricacion/*-bom.csv
 
+# --- Altium (el yunque mínimo para Atlas, en altium/) ---
+# Altium guarda historial, registros y vistas previas al lado del proyecto: se regeneran solos.
+History/
+Project Logs for */
+Project Outputs for */
+__Previews/
+*.PcbDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+
 # --- Sistema ---
 desktop.ini
 Thumbs.db
