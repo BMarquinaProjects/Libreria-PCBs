@@ -23,7 +23,9 @@ Sacadas de la página de capacidades de JLCPCB, no de memoria. Cada valor, con l
 
 | Ruta | Qué es |
 |---|---|
-| | |
+| `plantilla/` | Proyecto plantilla FORJA de KiCad: cajetín, capas, reglas, clases de red y jobset |
+| `biblioteca/` | `forja.pretty` (con `LOGO_FORJA`), símbolos propios y [la lista de piezas comprobadas](biblioteca/COMPROBACION.md) |
+| `altium/` | El yunque mínimo de Altium, para Atlas |
 
 ## Bitácora de fallos
 
