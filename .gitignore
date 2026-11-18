@@ -31,7 +31,7 @@ fabricacion/*
 # Excepción: la BOM en CSV se versiona, para ver en cada diff qué piezas cambian.
 !fabricacion/*-bom.csv
 
-# --- Altium (el yunque mínimo para Atlas, en altium/) ---
+# --- Altium (el yunque mínimo para Telamon, en altium/) ---
 # Altium guarda historial, registros y vistas previas al lado del proyecto: se regeneran solos.
 History/
 Project Logs for */
