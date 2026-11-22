@@ -1,13 +1,10 @@
-# Akmon · ἄκμων
+# Akmon Libreria propia que uso para mis diseños
 
-> El yunque. Todo lo que se forja pasa por él.
 
-Base de PCB de la Forja, con las reglas de diseño de **JLCPCB** en las dos herramientas.
+Base para el diseño de las PCB, con las reglas de diseño de **JLCPCB** en las dos herramientas tanto Kicad como Altium.
 
 - **Altium Designer 26** (`altium/`): bibliotecas `Forja.SchLib` y `Forja.PcbLib` con piezas comprobadas, y las reglas exportadas. De aquí sale Telamon, y Draupnir si se hace en Altium.
-- **KiCad 10** (`plantilla/` y `biblioteca/`): la biblioteca `forja.pretty` con las huellas propias (la primera, la resistencia compacta de Draupnir) y, en diciembre, la plantilla de proyecto con cajetín FORJA y la huella `LOGO_FORJA`. De aquí sale Narthex, y Draupnir si se hace en KiCad.
-
-**Metal:** Mineral → objetivo Bronce · **Campaña:** 2026-11 «Forjar el banco»
+- **KiCad 10** (`plantilla/` y `biblioteca/`): la biblioteca `forja.pretty` con las huellas propias (la primera, la resistencia compacta de Draupnir) y, en diciembre, la plantilla de proyecto con cajetín FORJA y la
 
 ## Reglas de diseño (JLCPCB, 2 capas, 1,6 mm)
 
